@@ -1,0 +1,3 @@
+START TERMINAL:sudo /opt/lampp/lampp start
+
+PERMISSION CODE TO CREATE NEW FOLDER: sudo chmod -R 777 htdocs (used once only)
